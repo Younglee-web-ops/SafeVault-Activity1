@@ -1,0 +1,12 @@
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.AssemblyInfoInputs.cache
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.AssemblyInfo.cs
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.csproj.CoreCompileInputs.cache
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.csproj.AssemblyReference.cache
+/Users/user/LibApp2/9.23.h1/bin/Debug/net10.0/9.23.h1.deps.json
+/Users/user/LibApp2/9.23.h1/bin/Debug/net10.0/9.23.h1.dll
+/Users/user/LibApp2/9.23.h1/bin/Debug/net10.0/9.23.h1.pdb
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.dll
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/refint/9.23.h1.dll
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/9.23.h1.pdb
+/Users/user/LibApp2/9.23.h1/obj/Debug/net10.0/ref/9.23.h1.dll
