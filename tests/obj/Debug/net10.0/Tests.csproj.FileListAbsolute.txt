@@ -202,3 +202,5 @@
 /Users/user/LibApp2/9.23.h1/tests/obj/Debug/net10.0/Tests.pdb
 /Users/user/LibApp2/9.23.h1/Tests/obj/Debug/net10.0/Tests.genruntimeconfig.cache
 /Users/user/LibApp2/9.23.h1/Tests/obj/Debug/net10.0/ref/Tests.dll
+/Users/user/LibApp2/9.23.h1/tests/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/Users/user/LibApp2/9.23.h1/tests/obj/Debug/net10.0/Tests.sourcelink.json
